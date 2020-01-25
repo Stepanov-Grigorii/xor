@@ -1,5 +1,5 @@
 COUNT_WORKER = 3
-WORKER1 = Worker Config1.txt
+WORKER1 = Config1.txt
 WORKER2 = Config2.txt
 WORKER3 = Config3.txt
 CONSUMER1 = WORKER2
